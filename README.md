@@ -11,9 +11,9 @@ curl
 
 ## Instalación  
 
-git clone https://github.com/jortizso/JsIng/
-cd JsIng
-bash JsIng.sh
+# git clone https://github.com/jortizso/JsIng/
+# cd JsIng
+# bash JsIng.sh
 
 
 # !El proyecto sigue en desarrollo.
