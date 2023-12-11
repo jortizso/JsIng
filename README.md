@@ -26,9 +26,15 @@ curl
 
     git clone https://github.com/jortizso/JsIng/
 
-       cd JsIng
 
-         bash JsIng.sh
+
+
+    cd JsIng
+
+    
+    
+    
+    bash JsIng.sh
 
 
 
