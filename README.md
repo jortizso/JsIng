@@ -28,6 +28,12 @@ git
 
 curl
 
+## Demostraciones
+![CollageMaker_20191115_193409432](images/Captura%20de%20pantalla_2023-12-11_10-12-57.png)
+![CollageMaker_20191115_193409432](images/Captura%20de%20pantalla_2023-12-11_10-13-17.png)
+![CollageMaker_20191115_193409432](images/Captura%20de%20pantalla_2023-12-11_10-13-44.png)
+![CollageMaker_20191115_193409432](images/Captura%20de%20pantalla_2023-12-11_10-14-12.png)
+
 ## Instalación  
 
     git clone https://github.com/jortizso/JsIng/
