@@ -42,8 +42,7 @@ curl
 
 # !MIT Licence
 
-Redes
-
-    https://instagram.com/j.ortizsosa/
 
 # Desarrollado por JoelOS.
+
+    https://instagram.com/j.ortizsosa/
