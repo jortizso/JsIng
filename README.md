@@ -46,9 +46,7 @@ curl
 
 # !El proyecto sigue en desarrollo.
 
-# !MIT Licence
-
 
 # Desarrollado por JoelOS.
 
-    https://instagram.com/j.ortizsosa/
+https://instagram.com/j.ortizsosa/
